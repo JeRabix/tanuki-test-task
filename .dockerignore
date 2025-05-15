@@ -1,0 +1,17 @@
+.phpstorm.meta.php
+
+.env
+.env.*
+
+.git
+.gitattributes
+.idea
+.vscode
+
+bootstrap/cache/*
+resources
+storage/logs/*
+tests
+vendor
+
+phpunit.xml
